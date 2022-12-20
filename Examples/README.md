@@ -30,10 +30,10 @@ https://user-images.githubusercontent.com/39435218/208666961-acf0d891-415b-4dee-
 
  - [Fire](./Example8.mp4)
 
-
+https://user-images.githubusercontent.com/39435218/208686505-e111b348-af7c-4e4a-b471-f05d575c46b3.mp4
 
  - [Candy Cane](./Example9.mp4)
 
-
+https://user-images.githubusercontent.com/39435218/208686549-04e6f97c-8f8c-49a4-a5b2-f783da492c49.mp4
 
 ![Mischievous sulphur-crested cockatoo](./Example7SpeechBubble.png)
