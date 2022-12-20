@@ -28,4 +28,12 @@ https://user-images.githubusercontent.com/39435218/208666942-a055b3f1-ac18-4040-
 
 https://user-images.githubusercontent.com/39435218/208666961-acf0d891-415b-4dee-a283-155cf440bf45.mp4
 
+ - [Fire](./Example8.mp4)
+
+
+
+ - [Candy Cane](./Example9.mp4)
+
+
+
 ![Mischievous sulphur-crested cockatoo](./Example7SpeechBubble.png)
