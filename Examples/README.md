@@ -23,3 +23,9 @@ https://user-images.githubusercontent.com/39435218/208666942-a055b3f1-ac18-4040-
  - [Penguin](./Example6.mp4)
 
 https://user-images.githubusercontent.com/39435218/208666961-acf0d891-415b-4dee-a283-155cf440bf45.mp4
+
+ - [Mischievous sulphur-crested cockatoo](./Example7.mp4)
+
+
+
+![Mischievous sulphur-crested cockatoo](./Example7SpeechBubble.png)
