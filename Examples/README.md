@@ -36,4 +36,8 @@ https://user-images.githubusercontent.com/39435218/208686505-e111b348-af7c-4e4a-
 
 https://user-images.githubusercontent.com/39435218/208686549-04e6f97c-8f8c-49a4-a5b2-f783da492c49.mp4
 
-![Mischievous sulphur-crested cockatoo](./Example7SpeechBubble.png)
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./Example4SpeechBubble.png">
+	<source media="(prefers-color-scheme: light)" srcset="./Example7SpeechBubble.png">
+	<img/>
+</picture>
