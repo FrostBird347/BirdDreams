@@ -36,6 +36,24 @@ https://user-images.githubusercontent.com/39435218/208686505-e111b348-af7c-4e4a-
 
 https://user-images.githubusercontent.com/39435218/208686549-04e6f97c-8f8c-49a4-a5b2-f783da492c49.mp4
 
+ - [wendigo](./Example10.png) ([second image](./Example11.png))
+
+![wendigo](./Example10.png)
+
+![wendigo](./Example11.png)
+
+ - [cryptid](./Example12.png) ([second image](./Example13.png))
+
+![cryptid](./Example12.png)
+
+![cryptid](./Example13.png)
+
+ - [Dragon](./Example14.png) ([second image](./Example15.png))
+
+![Dragon](./Example14.png)
+
+![Dragon](./Example15.png)
+
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="./Example4SpeechBubble.png">
 	<source media="(prefers-color-scheme: light)" srcset="./Example7SpeechBubble.png">
